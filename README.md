@@ -1,5 +1,5 @@
 
-# NoteShare - Share Your Notes!
+# NoteShare/NoteSpreader - Share Your Notes!
 
 NoteShare is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteShare, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
 
@@ -84,9 +84,7 @@ To run NoteSharing locally, follow these steps:
    ```
 7. Visit `http://localhost:3000` in your web browser to access NoteShare.
 
-## Contribution
 
-We welcome contributions to make NoteShare better! If you have any bug fixes, feature implementations, or suggestions, feel free to open an issue or submit a pull request.
 
 
 
