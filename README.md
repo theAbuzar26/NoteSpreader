@@ -1,7 +1,7 @@
 
-# NoteShare/NoteSpreader - Share Your Notes!
+# NoteSharing/NoteSpreader - Share Your Notes!
 
-NoteShare is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteShare, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
+NoteSharing is a web application that allows users to share their notes with others and interact with fellow users through a built-in chat feature. With NoteSharing, you can easily create, manage, and share your notes while **connecting with like-minded individuals**.
 
 
 ## Features
@@ -23,7 +23,7 @@ NoteShare is a web application that allows users to share their notes with other
 
 - **Privacy and Security:** NoteShare prioritizes the **security and privacy** of its users. All user data is encrypted and kept confidential.
 
-## How to Use NoteShare
+## How to Use NoteSharing
 
 1. **Sign Up / Log In:** If you're a new user, create an account by providing your email and password. If you're an existing user, simply log in to your account.
 
@@ -39,7 +39,7 @@ NoteShare is a web application that allows users to share their notes with other
 
 ## Technologies Used
 
-NoteShare is built using a combination of cutting-edge technologies:
+NoteSharing is built using a combination of cutting-edge technologies:
 
 - Frontend: HTML, CSS, JavaScript, **React.js**
 - Backend: **Node.js**, **Express.js**
@@ -92,4 +92,4 @@ To run NoteSharing locally, follow these steps:
 
 If you have any questions, feedback, or inquiries, please contact us at **abuzareqbal2600@gmail.com** or visit our [**website**](https://notesharing.onrender.com/).
 
-Happy Note Sharing! 📝
+Happy NoteSharing! 📝
